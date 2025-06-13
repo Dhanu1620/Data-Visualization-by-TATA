@@ -1,4 +1,5 @@
 📊 Online Retail Sales Dashboard — Tata Group Case Study (Power BI)
+
 Objective: Deliver actionable business insights to the CEO and CMO of a retail company based on 2011 sales data using Power BI.
 
 ---
